@@ -8,6 +8,8 @@ The three models that we have simulated are:
 
 ### PS: To run Weighted Random Forest, create an empty folder called Experiments as all the experimental sampled data will be stored in that folder.
 
+:sparkles: Contributors
+---
 <table>
   <tr>
     <td align="center"><a href="https://github.com/pratikdevnani"><img src="https://avatars.githubusercontent.com/u/43350493?v=4" width="75px;" alt=""/><br /><sub><b>Pratik Devnani</b></sub></a><br /></td>
